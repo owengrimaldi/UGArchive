@@ -16,7 +16,7 @@ In addition to the interactive maps, we also created some simple plots using the
 
 As for usage, the notebook runs the user through each kernel with explanations and comments as to how the API data is parsed, analyzed, and put into interactive maps for consumption.
 
-## Conway's Game of Life
+## Conway's Game of Life (Spring 2022)
 
 In the same semester as Engineering Computing (Spring 2022), I also took a class called Fundamentals of Computing. This class was meant to be taken a semester later, but I opted to take it early to better mesh my knowledge of Python with fundamentals from C. The class covered much of the basics also taught in Engineering Computing, such as basic loops but also went into depth about memory management, external libraries, and even graphics libraries made in-house.
 
