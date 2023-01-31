@@ -10,17 +10,21 @@ Using the Makefile in the directory, you can compile an executable of playlife. 
 
 Without arguments, the game opens with an empty board prompting you for a command from the following:
 1. Add a Tile
-* "a #x #y"
-* #x and #y can be replaced with any value from 0 to MAXBOARDSIZE-1 (default 40), acting like a coordinate system from the tiles from top left to bottom right. X relates to columns and Y to rows.
+    * "a #x #y"
+    * #x and #y can be replaced with any value from 0 to MAXBOARDSIZE-1 (default 40), acting like a coordinate system from the tiles from top left to bottom right. X relates to columns and Y to rows.
+
 2. Remove a Tile
-* "r #x #y"
-* #x and #y can be replaced with any value from 0 to MAXBOARDSIZE-1 (default 40), acting like a coordinate system from the tiles from top left to bottom right. X relates to columns and Y to rows.
+    * "r #x #y"
+    * #x and #y can be replaced with any value from 0 to MAXBOARDSIZE-1 (default 40), acting like a coordinate system from the tiles from top left to bottom right. X relates to columns and Y to rows.
+
 3. Next Turn
-* "n"
-* Runs a turn of the Game of Life, enacting the rules of the game on every tile and presenting you with the aftermath board.
+    * "n"
+    * Runs a turn of the Game of Life, enacting the rules of the game on every tile and presenting you with the aftermath board.
+
 4. Run Continuous Turns
-* "p"
-* Runs turns continuously until the user stops the program with CTRL-C. Most effective with scenes and larger, more involved boards.
+    * "p"
+    * Runs turns continuously until the user stops the program with CTRL-C. Most effective with scenes and larger, more involved boards.
+
 5. Quit
-* "q"
-* Quits the program from any board state, except when the program is running continuously.
+    * "q"
+    * Quits the program from any board state, except when the program is running continuously.
