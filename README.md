@@ -23,7 +23,7 @@ In the same semester as Engineering Computing (Spring 2022), I also took a class
 Conway's Game of Life was by far one of the most difficult programs I had ever written in up to this point. The goal of the project was to recreate a fully functional version of the classic Conway's Game of Life in C, a mathematical game revolving around tiles on a board acting through stages of natural selection. Each tile has conditions as to whether or not they become alive, stay alive, and die set about how many alive tiles surround them. With these conditions, you can create cool scenes where tiles generate other tiles, make flying ships, flicker in cool patterns, move around like cells, and more!
 
 The program allows you to enter commands from both files and the executable, creating a scene before allowing you to play turn-by-turn or play continuously. With these features, you can recreate any of the many possible structures and concepts.
-<img src="https://user-images.githubusercontent.com/67028882/215889155-4b9fd97e-a5a7-4a5e-a5ea-b0ed5a5f8539.png" width="100" height="500">
+<img src="https://user-images.githubusercontent.com/67028882/215889155-4b9fd97e-a5a7-4a5e-a5ea-b0ed5a5f8539.png">
 
 Below are two of the custom scenes I created for this project, the first being patterns of repetitive movements and the second being "flyers" who move across the screen.
 
