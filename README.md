@@ -12,7 +12,7 @@ Of these projects, the most notable is my final project for the class: Crimes in
 
 In addition to the interactive maps, we also created some simple plots using the crime data to produce some insights about the frequency of certain crimes and more specific dives into community areas. This project was very heavily reliant on data parsing and handling, which offered great experience for future courses.
 
-<img src="https://user-images.githubusercontent.com/67028882/215884076-d052a078-e4f9-459b-80c8-7ff2d5c81339.png" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/67028882/215884076-d052a078-e4f9-459b-80c8-7ff2d5c81339.png" width="100" height="300">
 
 As for usage, the notebook runs the user through each kernel with explanations and comments as to how the API data is parsed, analyzed, and put into interactive maps for consumption.
 
