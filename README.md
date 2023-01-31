@@ -26,9 +26,11 @@ The program allows you to enter commands from both files and the executable, cre
 
 Below are two of the custom scenes I created for this project, the first being patterns of repetitive movements and the second being "flyers" who move across the screen.
 
-https://user-images.githubusercontent.com/67028882/215888885-4e11ec50-a1a5-4869-8fd4-f6a5abbb6337.mp4
 
-https://user-images.githubusercontent.com/67028882/215888896-154d5fa9-87c5-4b12-abe7-dddf4966b844.mp4
+
+https://user-images.githubusercontent.com/67028882/215893986-90559e2c-bd57-4fcf-bf39-41baa83429cf.mp4
+
+https://user-images.githubusercontent.com/67028882/215893994-25ba9f0b-6ab6-456f-b45a-dcc0de53ca1e.mp4
 
 
 
