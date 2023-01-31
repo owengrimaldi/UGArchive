@@ -35,7 +35,7 @@ With a command line argument, you can initiate a scene in the progam like so:
 ```
 ./playlife /scenes/scene3.txt
 ```
-Doing so starts loads the game with every command listed in the scene text file. The provided 5 scenes conclude with the "p" command, meaning they start in a continuous state of play as a demonstration of the more in-depth parts of Conway's. Here are 3 of the provided scenes, involving movement into static states, flyers, and repetitive patterns:
+Doing so loads the game with every command listed in the scene text file. The provided 5 scenes conclude with the "p" command, meaning they start in a continuous state of play as a demonstration of the more in-depth parts of Conway's. Here are 3 of the provided scenes, involving movement into static states, flyers, and repetitive patterns:
 
 
 https://user-images.githubusercontent.com/67028882/215893553-8faada96-ad0e-4bb6-bf53-bac80c1160cf.mp4
