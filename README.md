@@ -2,7 +2,7 @@
 
 UGArchive is my personal archive of school projects, notes, and other small programs written during my time in undergraduate studies at the University of Notre Dame.
 
-## Engineering Computing (Spring 2022)
+## Crimes in Chicago (Spring 2022)
 
 Engineering Computing was my first foray into computer science, taken in my second semester of freshman year. The class consisted of learning the basics of programming in Python and applying these basics towards several projects of varying length.
 
