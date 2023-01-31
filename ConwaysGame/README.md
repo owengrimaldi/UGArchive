@@ -30,7 +30,7 @@ Without arguments, the game opens with an empty board prompting you for a comman
     * Quits the program from any board state, except when the program is running continuously.
     
 With a command line argument, you can initiate a scene in the progam like so:
-'''
+```
 ./playlife /scenes/scene3.txt
-'''
+```
   
