@@ -8,4 +8,4 @@ Engineering Computing was my first foray into computer science, taken in my seco
 
 Of these projects, the most notable is my final project for the class: Crimes in Chicago. Using a publicly available API that tracks 1000 of the most recent crimes from the city of Chicago, I alongside my partner Kyle Newman created a Jupyter Notebook that plotted these crimes in an interactive map for users. The project contains 3 variations of maps, allowing for users to interact with crimes based on the type of crime, the community area they occurr in, and density of crimes.
 
-![ClusterMapScreenshot](https://user-images.githubusercontent.com/67028882/215879741-f407a81c-d469-418f-ba6b-ae549314307c.png =250x250)
+<img src="[https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png](https://user-images.githubusercontent.com/67028882/215879741-f407a81c-d469-418f-ba6b-ae549314307c.png)" width="150" height="280">
