@@ -28,9 +28,21 @@ Without arguments, the game opens with an empty board prompting you for a comman
 5. Quit
     * "q"
     * Quits the program from any board state, except when the program is running continuously.
+
+
     
 With a command line argument, you can initiate a scene in the progam like so:
 ```
 ./playlife /scenes/scene3.txt
 ```
+Doing so starts loads the game with every command listed in the scene text file. The provided 5 scenes conclude with the "p" command, meaning they start in a continuous state of play as a demonstration of the more in-depth parts of Conway's. Here are 3 of the provided scenes, involving movement into static states, flyers, and repetitive patterns:
+
+
+https://user-images.githubusercontent.com/67028882/215893553-8faada96-ad0e-4bb6-bf53-bac80c1160cf.mp4
+
+https://user-images.githubusercontent.com/67028882/215893559-79077958-9b77-4e88-9e6b-22f35e44e109.mp4
+
+https://user-images.githubusercontent.com/67028882/215893572-4ae6d3a3-177b-4e08-87de-11fbd9b109d5.mp4
+
+
   
